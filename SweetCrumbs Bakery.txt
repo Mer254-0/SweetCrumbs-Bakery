@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SweetCrumbs Bakery</title>
+</head>
+<body bgcolor="white">
+
+<!-- Top Utility Bar -->
+<table width="100%" border="1" cellpadding="5">
+    <tr>
+        <td align="center">
+            Nairobi, Kenya | Phone: +254 700 123 456 | Open: Mon-Sat 7:00 AM - 8:00 PM
+        </td>
+    </tr>
+</table>
+
+<!-- Header -->
+<table width="100%" bgcolor="pink" cellpadding="10">
+    <tr>
+        <td align="center">
+            <h1>SweetCrumbs Bakery</h1>
+            <font size="4">Freshly Baked Happiness Every Day</font>
+        </td>
+    </tr>
+</table>
+
+<!-- Navigation -->
+<table width="100%" border="1">
+    <tr align="center">
+        <td><a href="#home">Home</a></td>
+        <td><a href="#about">About</a></td>
+        <td><a href="#menu">Menu</a></td>
+        <td><a href="#specials">Specials</a></td>
+        <td><a href="#gallery">Gallery</a></td>
+        <td><a href="#contact">Contact</a></td>
+    </tr>
+</table>
+
+<!-- Home -->
+<a id="home"></a>
+<table width="100%" cellpadding="20">
+    <tr>
+        <td align="center">
+            <h2>Welcome to SweetCrumbs Bakery</h2>
+            <p>Enjoy freshly baked breads, cakes, pastries and desserts made daily.</p>
+
+            <form>
+                <input type="submit" value="View Menu">
+                <input type="submit" value="Order Today">
+            </form>
+        </td>
+    </tr>
+</table>
+
+<!-- Announcement -->
+<table width="100%" bgcolor="yellow">
+    <tr>
+        <td align="center">
+            Use code SWEET10 and get 10% off all pastry orders this week!
+        </td>
+    </tr>
+</table>
+
+<!-- About -->
+<a id="about"></a>
+<table width="100%" cellpadding="10">
+    <tr>
+        <td>
+            <h2>About Us</h2>
+            <p>
+                SweetCrumbs Bakery is a Nairobi-based artisan bakery committed to
+                delivering fresh and delicious baked goods every day.
+            </p>
+
+            <table border="1" cellpadding="5">
+                <tr>
+                    <th>Years in Business</th>
+                    <th>Products Available</th>
+                    <th>Happy Customers</th>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>50+</td>
+                    <td>5000+</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+<!-- Menu -->
+<a id="menu"></a>
+<h2 align="center">Bakery Menu</h2>
+
+<table width="100%" border="1" cellpadding="5">
+    <tr>
+        <th>Item Name</th>
+        <th>Description</th>
+        <th>Price</th>
+        <th>Availability</th>
+    </tr>
+    <tr>
+        <td>Croissant</td>
+        <td>Buttery French pastry</td>
+        <td>KES 150</td>
+        <td>Available</td>
+    </tr>
+    <tr>
+        <td>Chocolate Cake</td>
+        <td>Rich chocolate sponge</td>
+        <td>KES 500</td>
+        <td>Available</td>
+    </tr>
+    <tr>
+        <td>Cinnamon Roll</td>
+        <td>Sweet cinnamon pastry</td>
+        <td>KES 180</td>
+        <td>Available</td>
+    </tr>
+    <tr>
+        <td>Blueberry Muffin</td>
+        <td>Fresh blueberry muffin</td>
+        <td>KES 120</td>
+        <td>Available</td>
+    </tr>
+    <tr>
+        <td>Sourdough Bread</td>
+        <td>Traditional sourdough loaf</td>
+        <td>KES 300</td>
+        <td>Available</td>
+    </tr>
+    <tr>
+        <td>Donut</td>
+        <td>Glazed donut</td>
+        <td>KES 100</td>
+        <td>Available</td>
+    </tr>
+    <tr>
+        <td>Fruit Tart</td>
+        <td>Fresh fruit topping</td>
+        <td>KES 250</td>
+        <td>Available</td>
+    </tr>
+    <tr>
+        <td>Cookies</td>
+        <td>Chocolate chip cookies</td>
+        <td>KES 80</td>
+        <td>Available</td>
+    </tr>
+</table>
+
+<!-- Specials -->
+<a id="specials"></a>
+<h2 align="center">Weekly Specials</h2>
+
+<table width="100%" border="1">
+    <tr>
+        <td align="center">
+            <h3>Monday Special</h3>
+            Buy 2 Croissants<br>
+            Get 1 Free
+        </td>
+
+        <td align="center">
+            <h3>Wednesday Special</h3>
+            Chocolate Cake<br>
+            15% Discount
+        </td>
+
+        <td align="center">
+            <h3>Friday Special</h3>
+            Donuts Combo<br>
+            20% Discount
+        </td>
+    </tr>
+</table>
+
+<!-- Gallery -->
+<a id="gallery"></a>
+<h2 align="center">Gallery</h2>
+
+<table width="100%" border="1">
+    <tr>
+        <td align="center">🥐 Croissant</td>
+        <td align="center">🍞 Bread</td>
+        <td align="center">🧁 Cupcake</td>
+    </tr>
+    <tr>
+        <td align="center">🍩 Donut</td>
+        <td align="center">🍪 Cookie</td>
+        <td align="center">🎂 Cake</td>
+    </tr>
+</table>
+
+<!-- Testimonials -->
+<h2 align="center">Testimonials</h2>
+
+<table width="100%" border="1">
+    <tr>
+        <td>
+            <b>Mary W.</b><br>
+            ★★★★★<br>
+            Amazing pastries and friendly service.
+        </td>
+
+        <td>
+            <b>John K.</b><br>
+            ★★★★★<br>
+            Best bakery in Nairobi.
+        </td>
+
+        <td>
+            <b>Sarah N.</b><br>
+            ★★★★★<br>
+            Fresh products every day.
+        </td>
+    </tr>
+</table>
+
+<!-- Contact -->
+<a id="contact"></a>
+<h2 align="center">Contact Us</h2>
+
+<form>
+<table cellpadding="5">
+    <tr>
+        <td>Full Name:</td>
+        <td><input type="text"></td>
+    </tr>
+
+    <tr>
+        <td>Email Address:</td>
+        <td><input type="email"></td>
+    </tr>
+
+    <tr>
+        <td>Phone Number:</td>
+        <td><input type="tel"></td>
+    </tr>
+
+    <tr>
+        <td>Inquiry Type:</td>
+        <td>
+            <select>
+                <option>General Inquiry</option>
+                <option>Order</option>
+                <option>Complaint</option>
+            </select>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Message:</td>
+        <td><textarea rows="5" cols="30"></textarea></td>
+    </tr>
+
+    <tr>
+        <td colspan="2">
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+        </td>
+    </tr>
+</table>
+</form>
+
+<!-- Location -->
+<h2 align="center">Our Location</h2>
+
+<table border="1" width="100%">
+    <tr>
+        <td>
+            SweetCrumbs Bakery<br>
+            Moi Avenue, Nairobi, Kenya<br><br>
+
+            Directions: Located near Nairobi CBD.<br><br>
+
+            <a href="https://maps.google.com">
+                View on Google Maps
+            </a>
+        </td>
+    </tr>
+</table>
+
+<!-- Footer -->
+<table width="100%" border="1" cellpadding="10">
+    <tr>
+        <td>
+            <b>Quick Links</b><br>
+            Home<br>
+            About<br>
+            Menu
+        </td>
+
+        <td>
+            <b>Popular Products</b><br>
+            Croissant<br>
+            Cake<br>
+            Donut
+        </td>
+
+        <td>
+            <b>Business Hours</b><br>
+            Mon-Sat<br>
+            7AM - 8PM
+        </td>
+
+        <td>
+            <b>Policies</b><br>
+            <a href="#">Privacy Policy</a><br>
+            <a href="#">Terms & Conditions</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td colspan="4" align="center">
+            © 2026 SweetCrumbs Bakery. All Rights Reserved.
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
